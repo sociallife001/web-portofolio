@@ -1,0 +1,17 @@
+/*CSS Document8*/
+body{
+    background-color:aqua;
+    margin:0px;
+    padding:0px;
+}
+h1.Pengumuman{
+    color: blue;
+}
+h1.testing{
+    color: red;
+}
+.textpengumuman{
+    padding-top: 10px;
+    width: 1000px;
+    box-sizing: border-box;
+}
